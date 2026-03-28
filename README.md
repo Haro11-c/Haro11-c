@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20There!&fontSize=60&fontAlignY=35" />
 </div>
 
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm [Haro Utura Kerro]</h1>
 <h3 align="center">Full-Stack Developer | Admin Dashboard Specialist | UI/UX Enthusiast</h3>
 
 <div align="center">
