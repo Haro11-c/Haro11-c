@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haro%20Utura%20Kerro&fontSize=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haro11-c&fontSize=50&fontAlignY=35" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Haro11-c</h1>
+<h1 align="center">👋 Hi, I'm Haro Utura Kerro</h1>
 <h3 align="center">Full-Stack Developer | Mobile App Developer | Tech Innovator</h3>
 
 <div align="center">
