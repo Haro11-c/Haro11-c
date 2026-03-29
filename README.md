@@ -100,26 +100,6 @@ I'm a passionate **Full-Stack & Mobile Developer** with a vision to create innov
 - **Features:** Cross-platform compatibility, real-time updates
 - Built during internship with focus on user experience
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" />
-
----
-
 ## 🎯 Current Focus
 
 - 🔨 Building **GooTiraa Search Engine** to revolutionize search experience
