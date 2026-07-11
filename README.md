@@ -75,7 +75,7 @@ He builds high-performance digital solutions at the intersection of full-stack s
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Haro11-c&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=94A3B8&ring_color=7C3AED&include_all_commits=true&rank_icon=github&custom_title=Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Haro11-c&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=94A3B8&ring_color=7C3AED&include_all_commits=true&rank_icon=github&custom_title=Stats&custom_repos=100"/>
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haro11-c&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=94A3B8&langs_count=8&hide=html,css,scss&custom_title=Languages"/>
