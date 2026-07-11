@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- ── Social Badges ─────────────────────────────────────── -->
-<a href="mailto:haroutura@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="mailto:hautkerro1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/haro-utura-kerro"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>&nbsp;
 
 <br/><br/>
@@ -24,7 +24,7 @@
 <!-- ── Live Stat Pills ────────────────────────────────────── -->
 <img src="https://komarev.com/ghpvc/?username=Haro11-c&color=7C3AED&style=flat-square&label=Profile+Views"/>&nbsp;
 <a href="https://github.com/Haro11-c?tab=followers"><img src="https://img.shields.io/github/followers/Haro11-c?style=flat-square&color=60A5FA&logo=github&logoColor=white&label=Followers&labelColor=111111"/></a>&nbsp;
-<a href="https://github.com/Haro11-c?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHaro11-c&query=%24.public_repos&label=Repositories&style=flat-square&color=A78BFA&logo=github&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://github.com/Haro11-c?tab=repositories"><img src="https://img.shields.io/badge/Repositories-100%2B-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://github.com/Haro11-c"><img src="https://img.shields.io/github/stars/Haro11-c?style=flat-square&color=FBBF24&logo=github&logoColor=white&label=Stars&labelColor=111111"/></a>
 
 </div>
@@ -181,7 +181,7 @@ My development mindset circles around modularity, database optimization, and imp
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Haburu%20Admin-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=111111"/>
-<br/><sub>Web Admin Dashboard Dashboard Control Panel</sub>
+<br/><sub>Web Admin Dashboard Control Panel</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Asbeza%20Ecom-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111"/>
@@ -279,7 +279,7 @@ My development mindset circles around modularity, database optimization, and imp
 
 <br/>
 
-<a href="mailto:haroutura@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="mailto:hautkerro1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://github.com/Haro11-c"><img src="https://img.shields.io/badge/@Haro11--c-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/haro-utura-kerro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>
 
