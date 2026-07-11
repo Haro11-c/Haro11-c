@@ -51,7 +51,7 @@ He builds high-performance digital solutions at the intersection of full-stack s
 | <img src="https://img.shields.io/badge/Education-111111?style=flat-square&logo=googlescholar&logoColor=A78BFA"/> | B.S. in Information Technology · Bule Hora University |
 | <img src="https://img.shields.io/badge/Specialization-111111?style=flat-square&logo=dynamic365&logoColor=02569B"/> | Full-Stack, Mobile & AI Engineer |
 | <img src="https://img.shields.io/badge/Location-111111?style=flat-square&logo=googlemaps&logoColor=EA4335"/> | Addis Ababa, Ethiopia |
-| <img src="https://img.shields.io/badge/Contact-111111?style=flat-square&logo=gmail&logoColor=EA4335"/> | [your-email@gmail.com](mailto:your-email@gmail.com) |
+| <img src="https://img.shields.io/badge/Contact-111111?style=flat-square&logo=gmail&logoColor=EA4335"/> | [hautkerro1216@gmail.com](mailto:hautkerro1216@gmail.com) |
 | <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=ffffff"/> | [your-portfolio-url.com](https://your-portfolio-url.com) |
 
 <br/>
