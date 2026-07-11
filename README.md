@@ -10,13 +10,14 @@
 
 <!-- ── Typing SVG ─────────────────────────────────────────── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+digital+solutions+for+community+impact;Full-Stack+Web+%7C+Cross-Platform+Mobile+Engineer;Crafting+clean%2C+scalable+backend+architectures;Bule+Hora+University+Alumnus+%E2%86%92+Tech+Innovator;Turning+complex+requirements+into+intuitive+interfaces" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+digital+solutions+for+community+impact;Full-Stack+Developer+%7C+Mobile+Engineer;Intelligent+Data+%26+AI+Engineering+Specialist;Bule+Hora+University+%E2%86%92+Tech+Innovator;Turning+complex+requirements+into+intuitive+interfaces" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <!-- ── Social Badges ─────────────────────────────────────── -->
-<a href="mailto:hautkerro1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/haro-utura-kerro"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>&nbsp;
 
 <br/><br/>
@@ -24,7 +25,7 @@
 <!-- ── Live Stat Pills ────────────────────────────────────── -->
 <img src="https://komarev.com/ghpvc/?username=Haro11-c&color=7C3AED&style=flat-square&label=Profile+Views"/>&nbsp;
 <a href="https://github.com/Haro11-c?tab=followers"><img src="https://img.shields.io/github/followers/Haro11-c?style=flat-square&color=60A5FA&logo=github&logoColor=white&label=Followers&labelColor=111111"/></a>&nbsp;
-<a href="https://github.com/Haro11-c?tab=repositories"><img src="https://img.shields.io/badge/Repositories-100%2B-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://github.com/Haro11-c?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHaro11-c&query=%24.public_repos&label=Repositories&style=flat-square&color=A78BFA&logo=github&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://github.com/Haro11-c"><img src="https://img.shields.io/github/stars/Haro11-c?style=flat-square&color=FBBF24&logo=github&logoColor=white&label=Stars&labelColor=111111"/></a>
 
 </div>
@@ -37,25 +38,26 @@
 
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### About Me
+### About
 
-I am a passionate **Software Developer** holding a *Bachelor of Science in Information Technology* from **Bule Hora University**. Currently based in Addis Ababa, Ethiopia, I focus on engineering robust full-stack web architectures and fluid cross-platform mobile experiences that solve tangible, real-world problems.
+**Haro Utura Kerro** is a software developer and B.S. Graduate in Information Technology from Bule Hora University, based in Addis Ababa, Ethiopia.
 
-My development mindset circles around modularity, database optimization, and implementing interactive user flows across web and mobile landscapes.
+He builds high-performance digital solutions at the intersection of full-stack systems architecture, cross-platform mobile engineering, and community impact — with an advanced specialization in Intelligent Data and AI Engineering frameworks.
 
 <br/>
 
 | | |
 |---|---|
 | <img src="https://img.shields.io/badge/Education-111111?style=flat-square&logo=googlescholar&logoColor=A78BFA"/> | B.S. in Information Technology · Bule Hora University |
-| <img src="https://img.shields.io/badge/Specialization-111111?style=flat-square&logo=dynamic365&logoColor=02569B"/> | Full-Stack Web & Cross-Platform Mobile Engineer |
+| <img src="https://img.shields.io/badge/Specialization-111111?style=flat-square&logo=dynamic365&logoColor=02569B"/> | Full-Stack, Mobile & AI Engineer |
 | <img src="https://img.shields.io/badge/Location-111111?style=flat-square&logo=googlemaps&logoColor=EA4335"/> | Addis Ababa, Ethiopia |
-| <img src="https://img.shields.io/badge/Hobbies-111111?style=flat-square&logo=googleplay&logoColor=ffffff"/> | Reading · Gaming · Volleyball |
+| <img src="https://img.shields.io/badge/Contact-111111?style=flat-square&logo=gmail&logoColor=EA4335"/> | [your-email@gmail.com](mailto:your-email@gmail.com) |
+| <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=ffffff"/> | [your-portfolio-url.com](https://your-portfolio-url.com) |
 
 <br/>
 
-**Verified Profile Highlights**
-| <img src="https://img.shields.io/badge/Languages-Oromiffa%20%C2%B7%20Amharic%20%C2%B7%20English-60A5FA?style=flat-square&labelColor=111111"/> | <img src="https://img.shields.io/badge/Core%20Project-GooTiraa%20Search%20Engine-FBBF24?style=flat-square&labelColor=111111"/> | <img src="https://img.shields.io/badge/Credentials-7%20Professional%20Certificates-F472B6?style=flat-square&labelColor=111111"/> |
+**Verified Capabilities**
+| <img src="https://img.shields.io/badge/Languages-Oromiffa%20%C2%B7%20Amharic%20%C2%B7%20English-60A5FA?style=flat-square&labelColor=111111"/> | <img src="https://img.shields.io/badge/Innovation-GooTiraa%20Search%20Engine-FBBF24?style=flat-square&labelColor=111111"/> | <img src="https://img.shields.io/badge/Credentials-7%20Certificates%20Earned-F472B6?style=flat-square&labelColor=111111"/> |
 |---|---|---|
 
 > *"Innovation distinguishes between a leader and a follower."*
@@ -66,17 +68,17 @@ My development mindset circles around modularity, database optimization, and imp
 
 <!-- ══════════════════  GITHUB STATS  ══════════════════ -->
 
-### GitHub Analytics &nbsp; <img src="https://img.shields.io/badge/live-60A5FA?style=flat-square&logo=github&logoColor=white&labelColor=111111"/>
+### GitHub Stats &nbsp; <img src="https://img.shields.io/badge/live-60A5FA?style=flat-square&logo=github&logoColor=white&labelColor=111111"/>
 
 <div align="center">
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Haro11-c&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=94A3B8&ring_color=7C3AED&include_all_commits=true&rank_icon=github&custom_title=Overall+Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Haro11-c&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=94A3B8&ring_color=7C3AED&include_all_commits=true&rank_icon=github&custom_title=Stats"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haro11-c&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=94A3B8&langs_count=8&hide=html,css,scss&custom_title=Core+Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haro11-c&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=94A3B8&langs_count=8&hide=html,css,scss&custom_title=Languages"/>
 </td>
 </tr>
 </table>
@@ -95,36 +97,39 @@ My development mindset circles around modularity, database optimization, and imp
 
 <!-- ══════════════════  TECH STACK  ══════════════════ -->
 
-### Technical Stack Matrix
+### Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<th align="left"> <img src="https://img.shields.io/badge/Mobile-111111?style=flat-square&logo=flutter&logoColor=02569B"/> Mobile Engineering</th>
-<th align="left"> <img src="https://img.shields.io/badge/Frontend-111111?style=flat-square&logo=react&logoColor=61DAFB"/> Web Frontend</th>
+<th align="left"> <img src="https://img.shields.io/badge/Mobile-111111?style=flat-square&logo=flutter&logoColor=02569B"/> Mobile Development</th>
+<th align="left"> <img src="https://img.shields.io/badge/Frontend-111111?style=flat-square&logo=react&logoColor=61DAFB"/> Frontend Development</th>
 </tr>
 <tr>
 <td>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 </td>
 <td>
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
-<th align="left"> <img src="https://img.shields.io/badge/Backend-111111?style=flat-square&logo=node.js&logoColor=339933"/> Modern Backend Systems</th>
-<th align="left"> <img src="https://img.shields.io/badge/Databases-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/> Databases & Tooling</th>
+<th align="left"> <img src="https://img.shields.io/badge/Backend-111111?style=flat-square&logo=node.js&logoColor=339933"/> Backend & Databases</th>
+<th align="left"> <img src="https://img.shields.io/badge/AI-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00"/> Intelligent Data & AI Engineering</th>
 </tr>
 <tr>
 <td>
@@ -132,16 +137,23 @@ My development mindset circles around modularity, database optimization, and imp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 
 </td>
 <td>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=dynamic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
 </td>
 </tr>
@@ -153,23 +165,24 @@ My development mindset circles around modularity, database optimization, and imp
 
 <!-- ══════════════════  CAREER  ══════════════════ -->
 
-### Professional Timeline
+### Career Timeline
 
 <div align="center">
 
-| Period | Milestone / Role | Entity | Focus Ecosystem |
+| Period | Role | Organization | Stack |
 |:------:|:-----|:-------------|:------|
-| **Dec 2024 — Mar 2025** | IT Practitioner Experience | A RC ICT TECHNOLOGIES PLC | <img src="https://img.shields.io/badge/Infrastructure-IT%20Systems-7C3AED?style=flat-square"/> |
-| **Mar 2026** | B.S. IT Graduation | Bule Hora University | <img src="https://img.shields.io/badge/Academic-Degree%20Conferred-22C55E?style=flat-square"/> |
-| **Active** | Full-Stack & Mobile Engineering | Independent Portfolio Projects | <img src="https://img.shields.io/badge/Frameworks-MERN%20%C2%B7%20NextJS%20%C2%B7%20Flutter-60A5FA?style=flat-square"/> |
+| **2024** | IT Practice Experience | A RC ICT TECHNOLOGIES PLC | <img src="https://img.shields.io/badge/Systems-IT%20Architecture-7C3AED?style=flat-square"/> |
+| **2024 — 2025** | Intern Developer | Haburu Web & Mobile App | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> |
+| **2026** | Academic Capstone Release | Bule Hora University | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/> |
+| **Now** | Core AI & Systems Engineer | Open Source Systems | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20Engineering-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> |
 
 </div>
 
 ---
 
-<!-- ══════════════════  PORTFOLIO SHOWCASE  ══════════════════ -->
+<!-- ══════════════════  CURRENTLY BUILDING  ══════════════════ -->
 
-### Featured Portfolio Implementations
+### Currently Building
 
 <div align="center">
 
@@ -177,33 +190,19 @@ My development mindset circles around modularity, database optimization, and imp
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/GooTiraa%20Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=111111"/>
-<br/><sub>React, Next.js, Node.js, Express, MongoDB</sub>
+<br/><sub>NextJS + AI Index System</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Haburu%20Admin-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=111111"/>
-<br/><sub>Web Admin Dashboard Control Panel</sub>
+<img src="https://img.shields.io/badge/Haburu%20Dashboard-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=111111"/>
+<br/><sub>Next.js 15 & shadcn/ui</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Asbeza%20Ecom-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111"/>
-<br/><sub>MERN Stack + PostgreSQL Commerce App</sub>
+<img src="https://img.shields.io/badge/AI%20Data%20Pipelines-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=111111"/>
+<br/><sub>ML & Intelligent Ranking</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/BHU%20Clearance-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=111111"/>
-<br/><sub>PHP, MySQL, Vanilla JS, HTML, CSS</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Online%20Bookshop-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=111111"/>
-<br/><sub>Java Desktop/Core Architecture</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Age%20Calculator-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=111111"/>
-<br/><sub>Flutter Cross-Platform Mobile App</sub>
-</td>
-<td align="center" colspan="2">
-<strong>Continuous Integration Focus</strong><br/>
-<sub>Deploying clean schemas, normalized endpoints, and modular reusable assets.</sub>
+<img src="https://img.shields.io/badge/Asbeza%20Ecommerce-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111"/>
+<br/><sub>MERN + PostgreSQL Infrastructure</sub>
 </td>
 </tr>
 </table>
@@ -214,7 +213,9 @@ My development mindset circles around modularity, database optimization, and imp
 
 <!-- ══════════════════  ACHIEVEMENTS  ══════════════════ -->
 
-### Verified Track Programs & Certifications
+### Professional Track Certifications
+
+*Verified track programs representing specialized domains of implementation.*
 
 <br/>
 
@@ -222,21 +223,21 @@ My development mindset circles around modularity, database optimization, and imp
 
 <table>
 <tr>
-<th>Educational Issuing Authority</th>
-<th>Specialized Program Focus Domain</th>
-<th>Credentials</th>
-<th>Validation Status</th>
+<th>Institution Program</th>
+<th>Acquired Domain Track Focus</th>
+<th>Certificates</th>
+<th>Status</th>
 </tr>
 <tr>
-<td><strong>Ethio 5 Million Coders Program</strong></td>
-<td>Software Development & Coding Foundational Tracks</td>
+<td><strong>Ethio 5 Million Coders</strong></td>
+<td>Advanced Development Tracks & Software Engineering Systems</td>
 <td align="center"><strong>Active</strong></td>
 <td align="center"><img src="https://img.shields.io/badge/Verified-22C55E?style=flat-square&labelColor=111111"/></td>
 </tr>
 <tr>
 <td><strong>Esha Learning Systems</strong></td>
-<td>Architectural Execution & Comprehensive Full-Stack Infrastructure</td>
-<td align="center"><strong>7 Certificates</strong></td>
+<td>Architectural Execution and Comprehensive Full-Stack Development</td>
+<td align="center"><strong>Active</strong></td>
 <td align="center"><img src="https://img.shields.io/badge/Verified-22C55E?style=flat-square&labelColor=111111"/></td>
 </tr>
 </table>
@@ -247,7 +248,7 @@ My development mindset circles around modularity, database optimization, and imp
 
 <!-- ══════════════════  ANALYTICS  ══════════════════ -->
 
-### System Profiles & Repository Performance
+### Contribution Analytics
 
 <div align="center">
 
@@ -275,16 +276,17 @@ My development mindset circles around modularity, database optimization, and imp
 
 <br/>
 
-**Always open to engineering collaborations, professional development opportunities, and full-stack challenges.**
+**Open to Full-Stack roles, Mobile architecture positions, and Open Source AI collaborations.**
 
 <br/>
 
-<a href="mailto:hautkerro1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://github.com/Haro11-c"><img src="https://img.shields.io/badge/@Haro11--c-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/haro-utura-kerro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>
 
 <br/><br/>
 
-<sub>Layout elements auto-update dynamically based on active GitHub API states.</sub>
+<sub>All operational widgets sync telemetry data live from your profile on layout load.</sub>
 
 </div>
