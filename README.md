@@ -1,5 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--               HARO UTURA KERRO · GITHUB PROFILE               -->
+<!--                HARO UTURA KERRO · GITHUB PROFILE               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -180,29 +180,39 @@ He builds high-performance digital solutions at the intersection of full-stack s
 
 ---
 
-<!-- ══════════════════  CURRENTLY BUILDING  ══════════════════ -->
+<!-- ══════════════════  CURRENTLY BUILDING & FEATURED PROJECTS  ══════════════════ -->
 
-### Currently Building
+### Currently Building & Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Iesport%20Platform-DC2626?style=for-the-badge&logo=espn&logoColor=white&labelColor=111111"/>
+<br/><sub><b>Sports News Full-Stack App</b><br/><i>Pre-Deployment Phase 🚀</i></sub>
+</td>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/GooTiraa%20Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=111111"/>
-<br/><sub>NextJS + AI Index System</sub>
+<br/><sub><b>NextJS + AI Index System</b><br/>Search Engine Engineering</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/Haburu%20Dashboard-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=111111"/>
-<br/><sub>Next.js 15 & shadcn/ui</sub>
+<br/><sub><b>Next.js 15 & shadcn/ui</b><br/>Enterprise Web Portal</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AI%20Data%20Pipelines-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=111111"/>
-<br/><sub>ML & Intelligent Ranking</sub>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Email%20Spam%20Checker-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>
+<br/><sub><b>AI ML Classification Model</b><br/><i>Completed & Trained ✅</i></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/House%20Price%20Predictor-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=111111"/>
+<br/><sub><b>Predictive Regression Model</b><br/><i>Completed & Deployed ✅</i></sub>
+</td>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/Asbeza%20Ecommerce-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111"/>
-<br/><sub>MERN + PostgreSQL Infrastructure</sub>
+<br/><sub><b>MERN + PostgreSQL</b><br/>E-Commerce Platform</sub>
 </td>
 </tr>
 </table>
