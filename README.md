@@ -1,5 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--             HARO UTURA KERRO · GITHUB PROFILE PROFILE          -->
+<!--               HARO UTURA KERRO · GITHUB PROFILE               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <!-- ── Social Badges ─────────────────────────────────────── -->
 <a href="mailto:hautkerro1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://haxia-tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/haro-utura-kerro"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>&nbsp;
 
 <br/><br/>
@@ -52,7 +52,7 @@ He builds high-performance digital solutions at the intersection of full-stack s
 | <img src="https://img.shields.io/badge/Specialization-111111?style=flat-square&logo=dynamic365&logoColor=02569B"/> | Full-Stack, Mobile & AI Engineer |
 | <img src="https://img.shields.io/badge/Location-111111?style=flat-square&logo=googlemaps&logoColor=EA4335"/> | Addis Ababa, Ethiopia |
 | <img src="https://img.shields.io/badge/Contact-111111?style=flat-square&logo=gmail&logoColor=EA4335"/> | [hautkerro1216@gmail.com](mailto:hautkerro1216@gmail.com) |
-| <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=ffffff"/> | [your-portfolio-url.com](https://your-portfolio-url.com) |
+| <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=ffffff"/> | [haxia-tech.vercel.app](https://haxia-tech.vercel.app/) |
 
 <br/>
 
@@ -280,8 +280,8 @@ He builds high-performance digital solutions at the intersection of full-stack s
 
 <br/>
 
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="mailto:hautkerro1216@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://haxia-tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://github.com/Haro11-c"><img src="https://img.shields.io/badge/@Haro11--c-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/haro-utura-kerro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>
 
